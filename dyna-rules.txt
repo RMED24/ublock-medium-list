@@ -23,6 +23,7 @@ lifehacker.com kinja-static.com * noop
 lifehacker.com kinja.com * noop
 www.reddit.com accounts.google.com * noop
 www.reddit.com reddit.map.fastly.net * noop
+www.reddit.com redditmedia.com * noop
 www.reddit.com redditstatic.com * noop
 www.roblox.com akamai.net * noop
 www.roblox.com rbxcdn.com * noop
