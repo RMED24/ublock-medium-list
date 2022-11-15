@@ -10,5 +10,8 @@ behind-the-scene * image noop
 behind-the-scene * inline-script noop
 github.com github.githubassets.com * noop
 classroom.google.com www.gstatic.com * noop
+www.imdb.com dqpnq362acqdi.cloudfront.net * noop
+www.instagram.com static.cdninstagram.com * noop
+www.reddit.com www.redditstatic.com * noop
 twitter.com accounts.google.com * noop
 twitter.com abs.twimg.com * noop
