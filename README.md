@@ -6,5 +6,3 @@ THE GOAL IS TO ALLOW PAGES TO FULLY FUNCTION, WITH AS MINIMAL TRACKERS POSSIBLE.
 Accepting your contributions may take a while, as I'd like for them to be tested beforehand. 
 
 Please default to only disabling 3rd party scripts and not the frames, unless the frames break the website too of course... However, I'd prefer if you could figure out the exact domains causing problems on any given website instead if just disabling it for the whole page...
-
-I am also going to add filters (1p-filters.txt) on websites which attempt to bypass things like account signup messages. This is very much a test, and isn't recommended unless you are willing to accept stuff may break from this. 
