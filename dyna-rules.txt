@@ -10,8 +10,15 @@ behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
 www.bonappetit.com condenast.map.fastly.net * noop
+www.fiverr.com fiverrcdn.com * noop
 github.com github.githubassets.com * noop
 classroom.google.com www.gstatic.com * noop
+docs.google.com www.gstatic.com * noop
+drive.google.com googleusercontent.com * noop
+drive.google.com drive-thirdparty.googleusercontent.com * block
+drive.google.com www.gstatic.com * noop
+drive.google.com youtube.googleapis.com * noop
+www.google.com gstatic.com * noop
 www.gositestat.com www.google.com * noop
 www.gositestat.com www.gstatic.com * noop
 shop.hak5.org * 3p-frame noop
