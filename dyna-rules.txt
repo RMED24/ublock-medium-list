@@ -1,6 +1,7 @@
 no-large-media: behind-the-scene false
 * * 3p-frame block
 * * 3p-script block
+www.amazon.co.uk c.media-amazon.com * noop
 www.amazon.co.uk m.media-amazon.com * noop
 www.amazon.co.uk images-eu.ssl-images-amazon.com * noop
 www.bbc.com bbcverticals.com * noop
@@ -15,6 +16,8 @@ www.blogger.com blogger.l.google.com * noop
 www.bonappetit.com condenast.map.fastly.net * noop
 www.campaignlive.co.uk brightcove.net * noop
 www.cntraveller.com cni-digital.map.fastly.net * noop
+www.cognitoforms.com cognito-services.cloudapp.net * noop
+www.cognitoforms.com t-msedge.net * noop
 www.google.com.at www3.l.google.com * noop
 www.google.com.at www.gstatic.com * noop
 signin.ebay.co.uk ir.ebaystatic.com * noop
@@ -22,7 +25,18 @@ signin.ebay.co.uk systemcdn.net * noop
 www.ebay.co.uk ir.ebaystatic.com * noop
 www.ebay.co.uk fp28da.wpc.systemcdn.net * noop
 www.fiverr.com fiverrcdn.com * noop
+payments.geocaching.com cdnjs.cloudflare.com * noop
+payments.geocaching.com hwcdn.net * noop
+payments.geocaching.com code.jquery.com * noop
+www.geocaching.com cloudflare.com * noop
+www.geocaching.com hwcdn.net * noop
+www.geocaching.com code.jquery.com * noop
+www.geocaching.com jsdelivr.map.fastly.net * noop
+www.geocaching.com cdn.jsdelivr.net * noop
+www.geocaching.com klokantech.com * noop
+www.geocaching.com unpkg.com * noop
 github.com github.githubassets.com * noop
+github.com viewscreen.githubusercontent.com * noop
 www.google.ad www3.l.google.com * noop
 www.google.ad www.gstatic.com * noop
 www.google.ae www3.l.google.com * noop
@@ -136,6 +150,7 @@ lifehacker.com kinja.com * noop
 account.live.com msauth.net * noop
 login.live.com logincdn.msauth.net * noop
 login.microsoftonline.com msftauth.net * noop
+www.protondb.com spcr.netlify.com * noop
 www.quora.com quoracdn.net * noop
 www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com redditmedia.com * noop
