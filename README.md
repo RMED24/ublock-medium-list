@@ -5,4 +5,8 @@ THE GOAL IS TO ALLOW PAGES TO FULLY FUNCTION, WITH AS MINIMAL TRACKERS POSSIBLE.
 
 Accepting your contributions may take a while, as I'd like for them to be tested beforehand. 
 
-Please default to only disabling 3rd party scripts and not the frames, unless the frames break the website too of course... However, I'd prefer if you could figure out the exact domains causing problems on any given website instead if just disabling it for the whole page...
+Please default to only disabling the specific domains which cause trouble. If you genuinely can't figure it out or the website just is that broken, try only disabling 3rd party scripts. If that still doesn't work then disable blocking of both 3rd party scripts and frames, but only use this as a last resort.
+
+## Advantages and disadvantages
+
+I've been asked on multiple occasions what benefits and drawbacks come from this. And there's definitely a few of each which was somewhat [listed here](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode#characteristics)
