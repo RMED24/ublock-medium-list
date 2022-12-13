@@ -151,7 +151,10 @@ www.gq-magazine.co.uk dualstack.cni-digital.map.fastly.net * noop
 www.guilded.gg dcb3a3q5nenlj.cloudfront.net * noop
 shop.hak5.org * 3p-frame noop
 shop.hak5.org * 3p-script noop
+secure.halifax-online.co.uk lloydsbanking.com * noop
 www.imdb.com dqpnq362acqdi.cloudfront.net * noop
+imgur.com imgur.map.fastly.net * noop
+imgur.com media-lab.ai * noop
 www.instagram.com static.cdninstagram.com * noop
 www.inverse.com bustle.com * noop
 www.inverse.com cloudflare.net * noop
@@ -169,6 +172,7 @@ login.live.com logincdn.msauth.net * noop
 login.live.com msftauth.net * noop
 login.microsoftonline.com msftauth.net * noop
 login.microsoftonline.com omegacdn.net * noop
+www.msn.com akamaiedge.net * noop
 www.nicovideo.jp nimg.jp * noop
 nsw2u.com cloudflare.com * noop
 nsw2u.com vfl.ru * noop
@@ -204,6 +208,8 @@ edu.sketchup.com www.gstatic.com * noop
 www.speedrun.com fastly.net * noop
 www.speedrun.com google.com * noop
 www.speedrun.com youtube.com * noop
+www.speedtest.net cdnst.net * noop
+www.speedtest.net zd.map.fastly.net * noop
 steamcommunity.com steamcommunity.com * noop
 steamcommunity.com steamstatic.com * noop
 store.steampowered.com store.akamai.steamstatic.com * noop
@@ -239,6 +245,8 @@ www.vox.com vox.map.fastly.net * noop
 www.wired.com h2.condenast.map.fastly.net * noop
 www.google.bd www3.l.google.com * noop
 www.google.bd www.gstatic.com * noop
+www.xvideos.com rsc.cdn77.org * noop
+www.xvideos.com xvideos-cdn.com * noop
 studio.youtube.com google.com * noop
 studio.youtube.com www.gstatic.com * noop
 www.youtube.com youtube-ui.l.google.com * noop
