@@ -9,4 +9,7 @@ Please default to only disabling the specific domains which cause trouble. If yo
 
 ## Advantages and disadvantages
 
-I've been asked on multiple occasions what benefits and drawbacks come from this. And there's definitely a few of each which was somewhat [listed here](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode#characteristics)
+I've been asked on multiple occasions what benefits and drawbacks come from this. And there's definitely a few of each which was somewhat [listed here](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode#characteristics) and [here](![image](https://user-images.githubusercontent.com/81475204/207301363-721c4405-269e-474d-97b5-9eec559a32de.png)
+
+
+However, I've also 
