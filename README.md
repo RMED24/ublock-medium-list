@@ -31,7 +31,7 @@ In rare instances, you may even be able to bypass paywalls which is most common 
 
 * * *
 
-It's not all sunshine and rainbows however. There are some isusues which can come from medium mode that we're actively trying to eliminate. These include:
+It's not all sunshine and rainbows however. There are some isusues which can come from medium mode that is actively trying to be eliminated. These include:
 
 A small selection of websites won't load at all and need to be unbroken
 
@@ -42,7 +42,7 @@ In many instances, less important elements of a website that bake in things like
 These issues are exactly what this rules list is trying to eliminate. And as time goes on these should become less of a problem for everyone! Then we're all happy!
 * * *
 
-We would like for you to bare in mind that this rule list is still in early development and may not be perfect from the get go. Whilst this has been tested on google chrome and firefox with no extra issues previously. Whilst unlikely, this could still be broken on browsers other than these two. We recommend using firefox with this just to be safe for the time being if you want this to work the best it possibly can. 
+I would like for you to bare in mind that this rule list is still in early development and may not be perfect from the get go. Whilst this has been tested on google chrome and firefox with no extra issues previously. Whilst unlikely, this could still be broken on browsers other than these two. It is recommended using firefox with this just to be safe for the time being if you want this to work the best it possibly can. 
 
 Also, google is all but killing off the adblock in manifest V3 starting from January 2023, so it's probably best to consider switching away from chrome to something else anyway... 
 
